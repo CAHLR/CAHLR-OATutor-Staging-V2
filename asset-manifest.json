@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CAHLR-OATutor-Staging-V2/static/css/main.aecfd9fc.css",
-    "main.js": "/CAHLR-OATutor-Staging-V2/static/js/main.b2b1e797.js",
+    "main.js": "/CAHLR-OATutor-Staging-V2/static/js/main.c6c55d57.js",
     "static/media/Symbola.svg": "/CAHLR-OATutor-Staging-V2/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/CAHLR-OATutor-Staging-V2/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/CAHLR-OATutor-Staging-V2/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/CAHLR-OATutor-Staging-V2/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/CAHLR-OATutor-Staging-V2/index.html",
     "main.aecfd9fc.css.map": "/CAHLR-OATutor-Staging-V2/static/css/main.aecfd9fc.css.map",
-    "main.b2b1e797.js.map": "/CAHLR-OATutor-Staging-V2/static/js/main.b2b1e797.js.map"
+    "main.c6c55d57.js.map": "/CAHLR-OATutor-Staging-V2/static/js/main.c6c55d57.js.map"
   },
   "entrypoints": [
     "static/css/main.aecfd9fc.css",
-    "static/js/main.b2b1e797.js"
+    "static/js/main.c6c55d57.js"
   ]
 }
